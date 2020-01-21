@@ -617,7 +617,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'move the cube using they left and right arrow keys.
+  m_Text: 'move the cube using the left and right arrow keys.
 
 
     stay on the path and avoid the obstacles.
