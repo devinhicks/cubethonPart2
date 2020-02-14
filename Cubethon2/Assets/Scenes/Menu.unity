@@ -1448,7 +1448,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: eb846a83429b9479595750b9cce04166, type: 3}
-    m_FontSize: 30
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -1459,7 +1459,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: PART TWO
+  m_Text: NOW WITH ENHANCED SCORING!
 --- !u!222 &1998916213
 CanvasRenderer:
   m_ObjectHideFlags: 0
